@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="304" viewBox="0 0 1000 304" font-family="Microsoft YaHei, SimHei, sans-serif">
+<rect width="1000" height="304" fill="#ffffff"/>
+<text x="500" y="34" font-size="20" text-anchor="middle" fill="#222">花光 90 抽后的结果分布（按概率从高到低，前 8 种）</text>
+<text x="500" y="58" font-size="13" text-anchor="middle" fill="#666">目标：角色 2/0/0　武器 1/1/0/0/0　（达成整个计划的概率 30.33%）</text>
+<text x="288" y="97" font-size="13" text-anchor="end" fill="#333">角色 2/0/0  武器 1/1/0/0/0</text>
+<rect x="300" y="83" width="490.0" height="18" fill="#188038" rx="2"/>
+<text x="798.0" y="97" font-size="13" fill="#444">30.33%  ← 全部达成</text>
+<text x="288" y="127" font-size="13" text-anchor="end" fill="#333">角色 1/0/0  武器 1/1/0/0/0</text>
+<rect x="300" y="113" width="431.2" height="18" fill="#1a73e8" rx="2"/>
+<text x="739.2" y="127" font-size="13" fill="#444">26.69%  (还差 1)</text>
+<text x="288" y="157" font-size="13" text-anchor="end" fill="#333">角色 0/0/0  武器 1/1/0/0/0</text>
+<rect x="300" y="143" width="365.8" height="18" fill="#1a73e8" rx="2"/>
+<text x="673.8" y="157" font-size="13" fill="#444">22.64%  (还差 2)</text>
+<text x="288" y="187" font-size="13" text-anchor="end" fill="#333">角色 0/0/0  武器 1/0/0/0/0</text>
+<rect x="300" y="173" width="158.8" height="18" fill="#1a73e8" rx="2"/>
+<text x="466.8" y="187" font-size="13" fill="#444">9.83%  (还差 3)</text>
+<text x="288" y="217" font-size="13" text-anchor="end" fill="#333">角色 0/0/0  武器 0/1/0/0/0</text>
+<rect x="300" y="203" width="158.8" height="18" fill="#1a73e8" rx="2"/>
+<text x="466.8" y="217" font-size="13" fill="#444">9.83%  (还差 3)</text>
+<text x="288" y="247" font-size="13" text-anchor="end" fill="#333">角色 0/0/0  武器 0/0/0/0/0</text>
+<rect x="300" y="233" width="11.1" height="18" fill="#1a73e8" rx="2"/>
+<text x="319.1" y="247" font-size="13" fill="#444">0.68%  (还差 4)</text>
+</svg>
