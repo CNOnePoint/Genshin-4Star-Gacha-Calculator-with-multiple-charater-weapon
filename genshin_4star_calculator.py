@@ -1346,6 +1346,10 @@ def format_report(result: PlanResult, show_curve: bool = False, dist_top_k: int 
             f"大保底时 {1 / banner.n_up:.2%}）"
         )
     lines.append("  >100% 按必出处理；出四星时先判「歪不歪」，歪了则下一个四星必为 UP。")
+    lines.append("  统计口径：只要 UP 物品——角色池只要 UP 角色、武器池只要 UP 武器，")
+    lines.append("            非 UP 的四星（歪出来的角色/武器）不计入任何目标数量。")
+    lines.append("  因此若歪出来的角色/武器其实也是你想要的，真实情况会好于这里的数字，")
+    lines.append("  本计算器给出的是偏低的保守估计（只衡量 UP 物品是否拿齐）。")
     lines.append("  抽卡顺序指「优先池」：优先池达标后才切到另一个池子，抽数用尽即结束。")
     lines.append("  模型只统计四星，不包含五星与四星的星级冲突（五星保底），如需五星请另行建模。")
     lines.append("=" * 78)
